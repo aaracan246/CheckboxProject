@@ -186,7 +186,6 @@ fun CheckboxCard(name: String, modifier: Modifier = Modifier) {
                         modifier = Modifier
                     )
                 }
-
             }
         }
     }
