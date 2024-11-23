@@ -159,6 +159,7 @@ fun CheckboxCard(name: String, modifier: Modifier = Modifier) {
                     colors = ButtonDefaults.buttonColors(
                         containerColor = colorResource(R.color.fondo),
                         contentColor = colorResource(R.color.white),
+
                         disabledContainerColor = colorResource(R.color.frente), // Así parece que está desactivado, pero simplemente es invisible
                         disabledContentColor = colorResource(R.color.frente)
 
